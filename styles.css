@@ -8,12 +8,8 @@
 #box {
     background-color: burlywood;
     text-align: center;
-    height: 16px;
-    width: 16px;
     border-color: black;
-    border-style: hidden;
-
-    
+    border-style: hidden;    
 }
 
 #box:hover {
